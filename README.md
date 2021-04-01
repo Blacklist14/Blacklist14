@@ -15,12 +15,16 @@
 
 ### [](https://github.com/gdk46#%EF%B8%8F-interesses-e-atua%C3%A7%C3%B5es)![bulb](https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png)![desktop_computer](https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png)  Interesses e Atuações
 
+ 
  ![desktop_computer](https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png)  Atualmente estou buscando uma oportunidade para trabalhar com Front-end
-  
+  -
   ![seedling](https://github.githubassets.com/images/icons/emoji/unicode/1f331.png)  Atuo em projetos para melhorar a produtividade e acelerar o processo de desenvolvimento de sistemas Web; 
+  -
  ![smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)  Sou criativo, disposto, proativo, além disso muito curioso (rs);
+-
 
 ![clown_face](https://github.githubassets.com/images/icons/emoji/unicode/1f921.png)  curiosidades: Gosto de ler, escutar música, amo café, anime.
+-
 ### [](https://github.com/gdk46#-stack-and-tools)![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)![computer](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)  Skills
 -    HTML
 -    CSS
