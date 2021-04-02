@@ -18,8 +18,6 @@
  
  ![desktop_computer](https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png)  Atualmente estou buscando uma oportunidade para trabalhar com Front-end
   -
-  ![seedling](https://github.githubassets.com/images/icons/emoji/unicode/1f331.png)  Atuo em projetos para melhorar a produtividade e acelerar o processo de desenvolvimento de sistemas Web; 
-  -
  ![smile](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png)  Sou criativo, disposto, proativo, além disso muito curioso (rs);
 -
 
