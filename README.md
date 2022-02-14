@@ -9,7 +9,6 @@
 -   19;
 -   Estudo Desenvolvimento BACK-END;
 -   Baiano;
--   Sou um profissional que busca procurar,entender e resolver problemas;
 -   Comecei a programar/estudar em 2021
 
  ![desktop_computer](https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png)  Atualmente estou buscando uma oportunidade para trabalhar com BACK-END
@@ -18,7 +17,6 @@
 - Node.js
 - Express.js
 - Banco de Dados (mysql)
-- JWT
 - Web Socket
 - HTML
 - CSS
