@@ -8,8 +8,6 @@
 
 -   19;
 -   Estudo Desenvolvimento BACK-END;
--   Baiano;
--   Comecei a programar/estudar em 2021
 - Atualmente estou buscando uma oportunidade para trabalhar com BACK-END
   
 ![computer](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)  Skills
