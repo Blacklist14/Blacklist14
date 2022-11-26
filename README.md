@@ -1,16 +1,11 @@
-# Olá, me chamo Luís Antônio!!
+# _olá_me_chamo_luis!!
 
-## [](https://github.com/blacklist14#onde-me-encontrar)Onde me encontrar
+### [](https://github.com/blacklist14#-sobre-mim) _sobre_mim
 
- [![](https://camo.githubusercontent.com/cd219620af0b9bbf5876d37c1bd5a046d6f3f07c285b3ca53c022e570d25d754/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6d65266d6573736167653d4c696e6b6564696e26636f6c6f723d304136364332267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e)](https://www.linkedin.com/in/luis-antonio-alves-santos-29a770211/)
-
-### [](https://github.com/blacklist14#-sobre-mim)Sobre mim
-
--   19;
--   Estudo Desenvolvimento BACK-END;
-- Atualmente estou buscando uma oportunidade para trabalhar com BACK-END
+-   idade = 20;
+-   mono_jax;
   
-![computer](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)  Skills
+![computer](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)  _skills
 - Node.js
 - Express.js
 - Banco de Dados (mysql)
